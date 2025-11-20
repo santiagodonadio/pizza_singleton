@@ -1,1 +1,1 @@
-# pizza_singleton_practice
+# pizza_singleton
